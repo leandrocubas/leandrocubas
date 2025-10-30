@@ -77,14 +77,18 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  
-  ![Leandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leandrocubas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocubas&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leandrocubas&theme=react-dark&hide_border=true)
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leandrocubas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocubas&layout=compact&theme=tokyonight&hide_border=true"/>
+  </div>
+
+  <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leandrocubas&theme=react-dark&hide_border=true" width="95%"/>
 
 </div>
+
 
 ---
 
@@ -96,4 +100,5 @@
 
 ---
 
-⭐️ _Inspirado em perfis modernos de desenvolvedores full stack focados em performance e boas práticas._
+⭐️ _“Código limpo não é o que você escreve rápido.
+É o que qualquer pessoa consegue entender amanhã.”_
