@@ -7,7 +7,6 @@
   <p>🌎 Apaixonado por tecnologia, arquitetura de software e automação</p>
   <p>📍 Atualmente explorando: arquitetura hexagonal, microsserviços e escalabilidade em nuvem</p>
 </div>
----
 
 ### 🌱 Sobre mim
 
