@@ -71,6 +71,25 @@
 </div>
 
 
+### 🛰️ Projeto mais recente
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrocubas&repo=auron&theme=tokyonight&hide_border=true)](https://github.com/leandrocubas/auron)
+
+> 🧩 Substitua **NOME_DO_REPOSITORIO_AQUI** pelo nome de um projeto que você quer destacar.  
+> Esse card atualiza automaticamente com as estatísticas do projeto em tempo real.
+
+---
+
+### 📈 Métricas dinâmicas
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=leandrocubas&label=👀+Visualizações+no+perfil&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/leandrocubas?label=Seguidores&style=for-the-badge&color=blue" alt="GitHub Followers" />
+</p>
+
+---
+
+
 ---
 
 ### 🤝 Conecte-se comigo
