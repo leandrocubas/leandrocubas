@@ -24,7 +24,7 @@
 [![Skills](https://skillicons.dev/icons?i=js,ts,php,python,bash,awk,sql&theme=dark)](https://skillicons.dev)
 
 #### ⚙️ Back-End
-[![Skills](https://skillicons.dev/icons?i=nodejs,nestjs,fastify,express,laravel&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,nestjs,fastify,express,php,laravel&theme=dark)](https://skillicons.dev)
 
 #### 🎨 Front-End
 [![Skills](https://skillicons.dev/icons?i=vue,html,css&theme=dark)](https://skillicons.dev)
