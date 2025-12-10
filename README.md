@@ -52,7 +52,7 @@
 ![GitFlow](https://img.shields.io/badge/GitFlow-2F80ED?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=for-the-badge)
-![ShellScript](https://img.shields.io/badge/shellscript-8A2BE2??style=for-the-badge&logo=shell&logoColor=white)
+![ShellScript](https://img.shields.io/badge/shellscript-8A2BE2?style=for-the-badge&logo=shell&logoColor=white)
 
 ---
 
