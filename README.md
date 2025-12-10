@@ -30,10 +30,10 @@
 [![Skills](https://skillicons.dev/icons?i=vue,html,css&theme=dark)](https://skillicons.dev)
 
 #### ☁️ Cloud & Infra
-[![Skills](https://skillicons.dev/icons?i=aws,gcp,linux,nginx,rabbitmq,bull,pubsub,apache&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=aws,gcp,linux,nginx,ec2,s3,vpc,rabbitmq,bull,pubsub,sqs,cloudfront,apache&theme=dark)](https://skillicons.dev)
 
 #### 🗄️ Banco de Dados
-[![Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=mysql,rds,postgres,mongodb,redis&theme=dark)](https://skillicons.dev)
 
 #### 🧩 Ferramentas
 [![Skills](https://skillicons.dev/icons?i=git,npm,vscode,docker,github&theme=dark)](https://skillicons.dev)
